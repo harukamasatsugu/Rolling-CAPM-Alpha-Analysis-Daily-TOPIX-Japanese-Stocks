@@ -69,8 +69,6 @@ TOPIX data is downloaded reliably using Stooq.
 - Occasional positive spikes (SMB factor behavior)  
 - Lower stability vs large caps  
 
-This reflects well-known empirical findings (Fama & French, 1993).
-
 ---
 
 ##  Methodology
