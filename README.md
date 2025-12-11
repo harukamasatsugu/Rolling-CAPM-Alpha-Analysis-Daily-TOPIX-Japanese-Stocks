@@ -67,7 +67,25 @@ TOPIX data is downloaded reliably using Stooq.
 - Higher alpha variance  
 - Large idiosyncratic shocks  
 - Occasional positive spikes (SMB factor behavior)  
-- Lower stability vs large caps  
+- Lower stability vs large caps
+
+- small_candidates = [
+    "4443.T",  # Sansan小型 SaaS（時価総額小さめの頃から取得可能）
+    "7359.T",  # 東京通信G
+    "4192.T",  # スパイダープラス
+    "4375.T",  # セーフィー
+    "2934.T",  # ジャパンフーズ
+    "6613.T",  # QDレーザ
+    "3491.T",  # GA technologies（中小型）
+    "6081.T",  # アライドアーキテクツ
+    "3182.T",  # オイシックス（中小型）
+    "3134.T",  # Hamee
+    "4385.T",  # メルカリ子会社不使用→クラウド小型
+    "7095.T",  # Macbee Planet
+    "4884.T",  # クリングルファーマ
+    "4593.T",  # ヘリオス
+]
+
 
 ---
 
