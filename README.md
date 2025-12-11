@@ -1,10 +1,6 @@
 # Rolling CAPM Alpha Analysis (Daily) — TOPIX × Japanese Stocks
 
-This repository provides a quantitative analysis of **daily CAPM alpha**  
-for Japanese equities using **rolling OLS regression** with the **TOPIX** index  
-as the market factor.  
-The project compares **large-cap** and **small-cap** stocks to highlight  
-differences in alpha stability, persistence, and idiosyncratic risk.
+This repository provides a quantitative analysis of **daily CAPM alpha**  for Japanese equities using **rolling OLS regression** with the **TOPIX** index  as the market factor.  The project compares **large-cap** and **small-cap** stocks to highlight differences in alpha stability, persistence, and idiosyncratic risk.
 
 ---
 
