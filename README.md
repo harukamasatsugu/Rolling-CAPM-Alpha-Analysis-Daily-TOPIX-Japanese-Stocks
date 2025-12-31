@@ -156,10 +156,3 @@ python rolling_alpha_topix.py
   * Large caps: ±0.0003
   * Small caps: ±0.002〜0.01
 * Annualized alpha ≈ daily alpha × 250
-
----
-
-##  Author
-
-Created by **Haruka**
-Economics student / Quant finance enthusiast
